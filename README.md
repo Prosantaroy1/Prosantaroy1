@@ -62,7 +62,7 @@ Ramakrishna Mission Computer Training Center Dhaka · Full-time</br>
 
 💡 My core strengths:
 - ⚡ React & JavaScript Development
-- 🔌 Core developer on **5 WordPress plugins** that together reached **5,000+ active installs** at bPlugins
+- 🔌 Core developer on **6 WordPress plugins** that together reached **10k+ active installs** at bPlugins
 - ⚡ Built, shipped, and maintained features across the full plugin lifecycle — from block API to admin UI to support
 - 🤝 Handled user support, wrote documentation, and fixed production bugs for real-world users
 - 🤝 UI/UX-focused Design Thinking
